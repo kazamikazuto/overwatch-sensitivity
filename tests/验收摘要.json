@@ -1,0 +1,48 @@
+{
+  "artifact": "overwatch-sensitivity.html",
+  "bytes": 110376,
+  "sha256": "c9598368d9af220b0d9e5aead7edcc02b0a11ea8482a328469330f8522570f15",
+  "core": 28,
+  "browsers": [
+    {
+      "name": "Chrome",
+      "version": "153.0.8010.48",
+      "passed": 18,
+      "headless": false,
+      "offline": true
+    },
+    {
+      "name": "Edge",
+      "version": "153.0.4234.48",
+      "passed": 18,
+      "headless": false,
+      "offline": true
+    }
+  ],
+  "workflowAssertions": 6,
+  "realTimedElapsedMs": 44988,
+  "finalSmoke": [
+    {
+      "name": "Chrome",
+      "passed": 5
+    },
+    {
+      "name": "Edge",
+      "passed": 5
+    }
+  ],
+  "manualHardwareAndGameValidation": "pending",
+  "environmentUpdate": {
+    "testedAt": "2026-09-20T13:57:08.610Z",
+    "record": "environment-test-results.json",
+    "chromeChecks": 10,
+    "edgeChecks": 10,
+    "gameAndHardwareValuesNotAutoDetected": true
+  },
+  "plainLanguageUpdate": {
+    "date": "2026-09-20T14:13:40.587Z",
+    "glossaryEntries": 72,
+    "record": "plain-language-test-results.json",
+    "sourceCompatibility": "DOM IDs, core calculations and backup schema retained"
+  }
+}

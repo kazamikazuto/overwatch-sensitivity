@@ -1,0 +1,169 @@
+{
+  "testedAt": "2026-09-20T13:43:50.993Z",
+  "report": [
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.48",
+      "headless": false,
+      "url": "file:///D:/ow%E7%81%B5%E6%95%8F%E5%BA%A6/overwatch-sensitivity.html",
+      "offline": true,
+      "tests": [
+        {
+          "name": "Windows desktop file:// 离线加载，无网络资源",
+          "pass": true
+        },
+        {
+          "name": "内置核心自检全部通过",
+          "pass": true
+        },
+        {
+          "name": "设置表单与未知 DPI",
+          "pass": true
+        },
+        {
+          "name": "校准失败阻止推荐",
+          "pass": true
+        },
+        {
+          "name": "真实 Pointer Lock API 请求及 Esc 退出（非物理校准证明）",
+          "pass": true
+        },
+        {
+          "name": "模拟采样：线性通过、非线性拒绝、第二档校验",
+          "pass": true
+        },
+        {
+          "name": "候选保存值向导与基线保护",
+          "pass": true
+        },
+        {
+          "name": "JSON 完整工作副本导出、验证、导入",
+          "pass": true
+        },
+        {
+          "name": "非法任务参数及导入内容拒绝",
+          "pass": true
+        },
+        {
+          "name": "预试不同于正式成绩；参数冻结",
+          "pass": true
+        },
+        {
+          "name": "正式流程开始、避免重复开始、Esc 中断重测",
+          "pass": true
+        },
+        {
+          "name": "正式模块中断记录并从头重测",
+          "pass": true
+        },
+        {
+          "name": "超过 250ms 停顿及失焦中断",
+          "pass": true
+        },
+        {
+          "name": "未完成记录完整 JSON 往返可读",
+          "pass": true
+        },
+        {
+          "name": "CSV 下载具有原始字段且中文可读",
+          "pass": true
+        },
+        {
+          "name": "保存失败明确提醒",
+          "pass": true
+        },
+        {
+          "name": "刷新恢复设置和记录，不恢复中断计时",
+          "pass": true
+        },
+        {
+          "name": "无脚本异常或网络依赖",
+          "pass": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "browser": "Edge",
+      "version": "153.0.4234.48",
+      "headless": false,
+      "url": "file:///D:/ow%E7%81%B5%E6%95%8F%E5%BA%A6/overwatch-sensitivity.html",
+      "offline": true,
+      "tests": [
+        {
+          "name": "Windows desktop file:// 离线加载，无网络资源",
+          "pass": true
+        },
+        {
+          "name": "内置核心自检全部通过",
+          "pass": true
+        },
+        {
+          "name": "设置表单与未知 DPI",
+          "pass": true
+        },
+        {
+          "name": "校准失败阻止推荐",
+          "pass": true
+        },
+        {
+          "name": "真实 Pointer Lock API 请求及 Esc 退出（非物理校准证明）",
+          "pass": true
+        },
+        {
+          "name": "模拟采样：线性通过、非线性拒绝、第二档校验",
+          "pass": true
+        },
+        {
+          "name": "候选保存值向导与基线保护",
+          "pass": true
+        },
+        {
+          "name": "JSON 完整工作副本导出、验证、导入",
+          "pass": true
+        },
+        {
+          "name": "非法任务参数及导入内容拒绝",
+          "pass": true
+        },
+        {
+          "name": "预试不同于正式成绩；参数冻结",
+          "pass": true
+        },
+        {
+          "name": "正式流程开始、避免重复开始、Esc 中断重测",
+          "pass": true
+        },
+        {
+          "name": "正式模块中断记录并从头重测",
+          "pass": true
+        },
+        {
+          "name": "超过 250ms 停顿及失焦中断",
+          "pass": true
+        },
+        {
+          "name": "未完成记录完整 JSON 往返可读",
+          "pass": true
+        },
+        {
+          "name": "CSV 下载具有原始字段且中文可读",
+          "pass": true
+        },
+        {
+          "name": "保存失败明确提醒",
+          "pass": true
+        },
+        {
+          "name": "刷新恢复设置和记录，不恢复中断计时",
+          "pass": true
+        },
+        {
+          "name": "无脚本异常或网络依赖",
+          "pass": true
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

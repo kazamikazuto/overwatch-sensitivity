@@ -1,0 +1,35 @@
+{
+  "testedAt": "2026-09-20T14:11:54.418Z",
+  "results": [
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.48",
+      "offline": true,
+      "glossaryEntries": 72,
+      "passed": true,
+      "checks": [
+        "四个主要输入项附解释",
+        "词语表可展开收起",
+        "设置和错误提示正常",
+        "结果页和下载按钮正常",
+        "20项内置自检通过",
+        "无页面异常"
+      ]
+    },
+    {
+      "browser": "Edge",
+      "version": "153.0.4234.48",
+      "offline": true,
+      "glossaryEntries": 72,
+      "passed": true,
+      "checks": [
+        "四个主要输入项附解释",
+        "词语表可展开收起",
+        "设置和错误提示正常",
+        "结果页和下载按钮正常",
+        "20项内置自检通过",
+        "无页面异常"
+      ]
+    }
+  ]
+}

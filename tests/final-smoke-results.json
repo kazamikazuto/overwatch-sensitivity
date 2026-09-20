@@ -1,0 +1,59 @@
+{
+  "testedAt": "2026-09-20T14:12:45.775Z",
+  "output": [
+    {
+      "browser": "Chrome",
+      "version": "153.0.8010.48",
+      "headless": false,
+      "tests": [
+        {
+          "name": "最终文件离线打开及 20 项内置自检",
+          "pass": true
+        },
+        {
+          "name": "保存失败不会被随后成功提示覆盖",
+          "pass": true
+        },
+        {
+          "name": "不支持原始输入时要求再次点击普通锁定（拒绝为模拟）",
+          "pass": true
+        },
+        {
+          "name": "权限拒绝、无 Pointer Lock 不会开始测试（故障注入）",
+          "pass": true
+        },
+        {
+          "name": "无页面脚本错误",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "browser": "Edge",
+      "version": "153.0.4234.48",
+      "headless": false,
+      "tests": [
+        {
+          "name": "最终文件离线打开及 20 项内置自检",
+          "pass": true
+        },
+        {
+          "name": "保存失败不会被随后成功提示覆盖",
+          "pass": true
+        },
+        {
+          "name": "不支持原始输入时要求再次点击普通锁定（拒绝为模拟）",
+          "pass": true
+        },
+        {
+          "name": "权限拒绝、无 Pointer Lock 不会开始测试（故障注入）",
+          "pass": true
+        },
+        {
+          "name": "无页面脚本错误",
+          "pass": true
+        }
+      ]
+    }
+  ]
+}

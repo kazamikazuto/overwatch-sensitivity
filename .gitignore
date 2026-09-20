@@ -1,7 +1,7 @@
-node_modules/
-.DS_Store
-Thumbs.db
-.env
-.env.*
-!.env.example
-*.log
+# 只上传程序和面向使用者的说明；其他本地文件默认忽略。
+/*
+!/.gitignore
+!/README.md
+!/overwatch-sensitivity.html
+!/使用说明.md
+!/术语说明.md
